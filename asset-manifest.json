@@ -1,31 +1,36 @@
 {
   "files": {
-    "main.css": "./static/css/main.edc3d7ce.chunk.css",
-    "main.js": "./static/js/main.60b329b6.chunk.js",
-    "main.js.map": "./static/js/main.60b329b6.chunk.js.map",
+    "main.css": "./static/css/main.8bc11567.chunk.css",
+    "main.js": "./static/js/main.5023e21f.chunk.js",
+    "main.js.map": "./static/js/main.5023e21f.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.52badf97.js",
     "runtime-main.js.map": "./static/js/runtime-main.52badf97.js.map",
     "static/css/2.ad8fe80d.chunk.css": "./static/css/2.ad8fe80d.chunk.css",
-    "static/js/2.a4f36887.chunk.js": "./static/js/2.a4f36887.chunk.js",
-    "static/js/2.a4f36887.chunk.js.map": "./static/js/2.a4f36887.chunk.js.map",
+    "static/js/2.9a6ba7d6.chunk.js": "./static/js/2.9a6ba7d6.chunk.js",
+    "static/js/2.9a6ba7d6.chunk.js.map": "./static/js/2.9a6ba7d6.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.4ada41dd7cae888c8a9c37438eb8651b.js": "./precache-manifest.4ada41dd7cae888c8a9c37438eb8651b.js",
+    "precache-manifest.c6782d51e8abc59aaf2231edaca6313b.js": "./precache-manifest.c6782d51e8abc59aaf2231edaca6313b.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.ad8fe80d.chunk.css.map": "./static/css/2.ad8fe80d.chunk.css.map",
-    "static/css/main.edc3d7ce.chunk.css.map": "./static/css/main.edc3d7ce.chunk.css.map",
-    "static/js/2.a4f36887.chunk.js.LICENSE.txt": "./static/js/2.a4f36887.chunk.js.LICENSE.txt",
-    "static/media/App.css": "./static/media/vaccine.4f9a57f3.png",
-    "static/media/res1.png": "./static/media/res1.259edafc.png",
-    "static/media/res2.png": "./static/media/res2.d494b6a6.png",
-    "static/media/res3.png": "./static/media/res3.fb291d21.png",
-    "static/media/res4.png": "./static/media/res4.c6000861.png",
-    "static/media/res5.png": "./static/media/res5.922cc1c1.png"
+    "static/css/main.8bc11567.chunk.css.map": "./static/css/main.8bc11567.chunk.css.map",
+    "static/js/2.9a6ba7d6.chunk.js.LICENSE.txt": "./static/js/2.9a6ba7d6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "./static/media/Skia.dbe42a12.ttf",
+    "static/media/attenuated.png": "./static/media/attenuated.efbad8f9.png",
+    "static/media/inactivated.png": "./static/media/inactivated.4a44d387.png",
+    "static/media/protein.png": "./static/media/protein.ee0c465c.png",
+    "static/media/recombinant.png": "./static/media/recombinant.aef25b49.png",
+    "static/media/res1.png": "./static/media/res1.6094db3c.png",
+    "static/media/res2.png": "./static/media/res2.369d4fc0.png",
+    "static/media/res3.png": "./static/media/res3.5b5a02ea.png",
+    "static/media/res4.png": "./static/media/res4.94d4a0bb.png",
+    "static/media/res5.png": "./static/media/res5.39920b3c.png",
+    "static/media/rna.png": "./static/media/rna.40703c75.png"
   },
   "entrypoints": [
     "static/js/runtime-main.52badf97.js",
     "static/css/2.ad8fe80d.chunk.css",
-    "static/js/2.a4f36887.chunk.js",
-    "static/css/main.edc3d7ce.chunk.css",
-    "static/js/main.60b329b6.chunk.js"
+    "static/js/2.9a6ba7d6.chunk.js",
+    "static/css/main.8bc11567.chunk.css",
+    "static/js/main.5023e21f.chunk.js"
   ]
 }
